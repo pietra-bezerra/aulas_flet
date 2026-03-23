@@ -1,5 +1,4 @@
-import flet as ft 
-
+import flet as ft
 def main(page: ft.Page):
     def mostrar_mensagem(e):
         page.add(
